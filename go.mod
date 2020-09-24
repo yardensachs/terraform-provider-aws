@@ -20,6 +20,7 @@ require (
 	github.com/mitchellh/copystructure v1.0.0
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/pquerna/otp v1.2.0
+	github.com/terraform-linters/tflint v0.20.1
 	golang.org/x/tools v0.0.0-20200713011307-fd294ab11aed
 	gopkg.in/yaml.v2 v2.3.0
 )
